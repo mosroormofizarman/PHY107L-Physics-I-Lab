@@ -25,8 +25,8 @@ This repository is organized into the following folders:
 - **Course Code:** PHY107L  
 - **Course Title:** Physics I Lab  
 - **Course Instructors:**
-  - **Course Instructor:** Dr. Zaid Bin Mahbub
-  - **Lab Instructor:** S M Enzamul Haque Taqi
+  - **Course Instructor:** [Dr. Zaid Bin Mahbub [ZBM]](https://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-zaid-bin-mahbub-zbm.html)
+  - **Lab Instructor:** [S M Enzamul Haque Taqi](https://bd.linkedin.com/in/enzamul-haque-taqi)  
 - **Department:** Mathematics and Physics  
 - **Program:** Undergraduate (Science and Engineering majors)  
 - **Credit:** 1.0  
@@ -114,13 +114,13 @@ Upon successful completion of this lab course, students will be able to:
 ## 👨‍🏫 Instructor Details
 
 **Course Instructor:**
-- **Name:** Dr. Zaid Bin Mahbub  
+- **Name:** [Dr. Zaid Bin Mahbub [ZBM]](https://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-zaid-bin-mahbub-zbm.html)
 - **Office:** SAC 1065 (B)  
 - **Email:** zaid.mahbub@northsouth.edu  
 - **Department:** Mathematics and Physics  
 
 **Lab Instructor:**
-- **Name:** S M Enzamul Haque Taqi  
+- **Name:** [S M Enzamul Haque Taqi](https://bd.linkedin.com/in/enzamul-haque-taqi)  
 - **Office:** SAC 1018 (C)  
 - **Email:** Enzamul.Haque@northsouth.edu  
 - **Phone:** +8801521201912  
